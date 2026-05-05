@@ -1,0 +1,6 @@
+Vendor,Finding,Severity,Recommendation
+MedCloud Hosting,No documented annual DR test,High,Implement annual DR testing process
+PayFlow,Subprocessor inventory incomplete,Medium,Maintain updated fourth-party register
+RecruitTrack,MFA not enforced for admins,High,Enable MFA for privileged access
+SlackClone,No formal vulnerability scan evidence,Medium,Provide quarterly vulnerability scans
+HelpDeskPro,Data retention period undefined,Low,Define retention schedule in policy

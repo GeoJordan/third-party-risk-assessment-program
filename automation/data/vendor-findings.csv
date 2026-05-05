@@ -1,0 +1,4 @@
+Finding_ID,Vendor,Domain,Severity,Status,Owner,Due_Date
+F-001,MedCloud Hosting,BCP/DR,High,Open,CISO,2026-09-30
+F-002,RecruitTrack,Access Management,High,Open,IT Director,2026-07-01
+F-003,SlackClone,Vulnerability Management,Medium,Risk Accepted,Security Manager,2026-06-15

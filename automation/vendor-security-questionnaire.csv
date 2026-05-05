@@ -1,0 +1,11 @@
+Domain,Question,Expected_Evidence
+Access Management,Do you enforce MFA for privileged accounts?,MFA Policy / Screenshot
+Encryption,Is data encrypted at rest and in transit?,Encryption Standard
+Incident Response,Do you maintain an incident response plan?,IR Plan
+BCP/DR,Do you test disaster recovery annually?,DR Test Results
+Vulnerability Management,Are external scans performed regularly?,Vulnerability Scan Report
+Compliance,Do you maintain SOC 2 or ISO 27001?,Audit Report / Certificate
+Subprocessors,Do you maintain a list of subprocessors?,Subprocessor Inventory
+Data Retention,Is data securely deleted upon termination?,Data Disposal Policy
+Logging,Are security logs centrally retained?,Logging Standard
+Monitoring,Is continuous monitoring implemented?,Monitoring Procedure

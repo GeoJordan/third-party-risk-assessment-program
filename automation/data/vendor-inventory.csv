@@ -1,0 +1,4 @@
+Vendor,Service,Data_Processed,Access_Level,Criticality,Regulatory_Exposure,Hosting_Responsibility,Inherent_Risk_Score,Risk_Tier,Assessment_Status
+MedCloud,Cloud Hosting,PHI,Privileged,High,High,Full Hosting,25,Critical,Pending Review
+SamCloud,Cloud Hosting,PHI,Limited,Medium,High,Full Hosting,21,Critical,Pending Review
+GCloud,Cloud Hosting,PCI/PII,Limited,Low,High,Full Hosting,19,High,Pending Review

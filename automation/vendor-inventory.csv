@@ -1,0 +1,6 @@
+Vendor,Service,Data_Processed,Business_Function,Criticality,Hosting_Model,Access_Level
+MedCloud Hosting,Cloud Infrastructure,PHI,Application Hosting,High,SaaS,Privileged
+PayFlow,Payment Processing,PCI/PII,Payment Processing,High,SaaS,Limited
+RecruitTrack,HR Information System,PII,HR Operations,Medium,SaaS,Standard
+SlackClone,Collaboration Platform,Internal Data,Communications,Medium,SaaS,Standard
+HelpDeskPro,Support Ticketing,Customer Data,Customer Support,Medium,SaaS,Standard
