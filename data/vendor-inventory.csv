@@ -1,0 +1,12 @@
+| Vendor | Service | Data Type | Criticality | Tier |
+| ------ | ------- | --------- | ----------- | ---- |
+
+
+
+| Vendor           | Service            | Data Processed | Criticality |
+| ---------------- | ------------------ | -------------- | ----------- |
+| MedCloud Hosting | Cloud Hosting      | PHI            | High        |
+| PayFlow          | Payment Processor  | PCI/PII        | High        |
+| RecruitTrack     | HRIS               | PII            | Medium      |
+| SlackClone       | Collaboration Tool | Internal Data  | Medium      |
+| HelpDeskPro      | Ticketing Platform | Customer Data  | Medium      |
