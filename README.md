@@ -79,26 +79,19 @@ This project includes an enterprise-style RACI matrix defining stakeholder owner
 
 ## Project Structure
 
-```
+```text
 third-party-risk-assessment-program/
 │
 ├── README.md
-├── methodology/
-│   ├── tprm-methodology.md
-│   ├── risk-tiering-model.xlsx
+├── app.py
+├── requirements.txt
+├── .gitignore
 │
 ├── assessments/
-│   ├── vendor-inventory.csv
-│   ├── vendor-security-questionnaire.csv
-│   ├── sample-findings.csv
-│
-├── automation/
-│   ├── vendor_risk_scoring.py
-│   ├── vendor-risk-results.csv
-│
-├── dashboards/
-│   ├── vendor-risk-dashboard.xlsx
-│
+├── data/
+├── methodology/
+├── outputs/
+│   └── vendor-risk-results.csv
 └── screenshots/
 ```
 
